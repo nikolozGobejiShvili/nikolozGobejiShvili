@@ -1,32 +1,21 @@
-<h1 align="center"> I'm Nikoloz Gobejishvili</h1>
-<h3 align="center">Python Developer</h3>
+# Nikoloz Gobejishvili
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolozGobejiShvilili&label=Profile%20views&color=3f5427&style=plastic" alt="nikolozGobejiShvili" /> </p>
+**AI Engineer** — RAG systems, LLM agents, and API/ERP integrations.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolozGobejiShvili" alt="nikolozGobejiShvili" /></a> </p>
+I build AI systems that connect to the tools a business already runs.
+Recently: an agentic RAG system with SAP Business One and MCP integrations
+for a German software company (Langflow, Redis, PostgreSQL).
 
+**What I focus on:** source-grounded answers over hallucination,
+and token cost that doesn't explode between pilot and production.
 
-- 👨‍💻 All of my projects are available at [nikolozGobejiShvili](https://github.com/nikolozGobejiShvili?tab=repositories)
+### Stack
+`Python` · `FastAPI` · `Langflow` · `LangChain` · `MCP` · `OpenAI / Groq`
+`ChromaDB` · `FAISS` · `PostgreSQL` · `Redis` · `Docling` · `Pandas`
 
-- 📫 How to reach me [NikolozGobejishvili](https://www.linkedin.com/in/nikoloz-gobejishvili-5323a9258)
+### Selected work
+- **Agentic RAG** — structure-aware PDF ingestion with source citations
+- **Georgian Legal RAG** — Q&A over the Civil Code (low-resource language)
+- **SAP Business One agent** — natural-language queries against live ERP data
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nikoloz-gobejishvili-5323a9258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolozgobejishvili" height="30" width="40" /></a>
-<a href="nikagobejishvili6@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-## 🧰 Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,django,SQLite,)](https://skillicons.dev)
-
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=nikolozGobejiShvili)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolozGobejiShvili&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolozGobejiShvili&theme=tokyonight)
-
-
-
+📫 nikagobejishvili6@gmail.com · [LinkedIn](https://www.linkedin.com/in/nikoloz-gobejishvili-5323a9258/)
